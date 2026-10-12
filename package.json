@@ -2,13 +2,11 @@
   "name": "@automaton-sovereign/agent-kit",
   "version": "1.0.0",
   "description": "SDK and MCP Server for AI Agents to consume quantitative DeFi and Pre-flight Security APIs on Base Mainnet",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.js",
   "bin": {
-    "automaton-mcp": "./dist/mcp.js"
+    "automaton-mcp": "./src/mcp.js"
   },
   "scripts": {
-    "build": "tsc",
     "test": "node test/index.test.js"
   },
   "keywords": [
