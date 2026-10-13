@@ -3,6 +3,7 @@
 [![Base Mainnet](https://img.shields.io/badge/Network-Base%20(8453)-0052FF.svg)](https://basescan.org)
 [![ERC-8004](https://img.shields.io/badge/Identity-ERC--8004%20%2395791-8A2BE2.svg)](https://basescan.org/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432)
 [![Protocol](https://img.shields.io/badge/Payment-x402%20v2%20(EIP--3009)-22c55e.svg)](https://api.automatonsvrn.xyz/.well-known/x402)
+[![L9 Observed Paying](https://agenticfinancegraph.com/badge/8004-base-95791.svg)](https://agenticfinancegraph.com/agent/8004-base-95791)
 [![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-Compatible-FF6F00.svg)](https://modelcontextprotocol.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
